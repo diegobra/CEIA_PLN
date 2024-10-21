@@ -41,8 +41,8 @@ En este desafío se desarrollaron modelos de lenguaje utilizando técnicas de to
 - **Implementación de modelos** con arquitecturas recurrentes (RNN, LSTM, GRU).
 - **Generación de secuencias** utilizando estrategias de búsqueda greedy y beam search, explorando los efectos de la temperatura.
 
-**Archivo (tokenización por palabras)**: [Desafío 3 (palabras)](Desafio3/desafio_3_word.ipynb)\
-**Archivo (tokenización por letras)**: [Desafío 3 (letras)](Desafio3/desafio_3_char.ipynb)
+**Archivo (tokenización por palabras)**: [Desafío 3 (palabras)](Desafio3/Desafio_3_word.ipynb)\
+**Archivo (tokenización por letras)**: [Desafío 3 (letras)](Desafio3/Desafio_3_char.ipynb)
 
 ---
 
