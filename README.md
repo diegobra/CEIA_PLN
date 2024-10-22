@@ -1,6 +1,19 @@
-# Procesamiento del Lenguaje Natural - Desafíos Resueltos
+
+<div align="center">
+  <img src="https://www.fi.uba.ar/images/logo-fiuba.png" alt="Logo FIUBA" width="200" style="margin-bottom: 20px;">
+  
+  # Procesamiento del Lenguaje Natural - Desafíos Resueltos
+  
+  **Facultad de Ingeniería, Universidad de Buenos Aires (FIUBA)**  
+  **Laboratorio de Sistemas Embebidos (LSE)**
+  
+  ![Python](https://img.shields.io/badge/Python-3.10.12-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.17.0-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-2.4.1-red)
+</div>
 
 Este repositorio contiene la resolución de diferentes desafíos del curso **Procesamiento del Lenguaje Natural** del Laboratorio de Sistemas Embebidos (LSE) de la **Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)**. Cada desafío aborda un problema específico de PLN, con el uso de distintas técnicas y modelos.
+
+### Profesor Responsable: Rodrigo Cárdenas
+
 
 ## Tabla de Contenidos
 
