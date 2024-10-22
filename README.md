@@ -62,9 +62,9 @@ El objetivo fue construir un bot de preguntas y respuestas utilizando datos del 
 
 El último desafío consiste en implementar un modelo de **análisis de sentimiento** utilizando **BERT**. Se trabajó con un dataset de reseñas de aplicaciones para comprender el contexto y el significado de las palabras, aprovechando las capacidades avanzadas de BERT para análisis semántico.
 
-**Archivo 1**: [Desafío 5 (modelo original)](Desafio5/desafio_5_original.ipynb)\
-**Archivo 2**: [Desafío 5 (modelo con 5 categorías)](Desafio5/desafio_5_cinco_categorias.ipynb)\
-**Archivo 3**: [Desafío 5 (modelo con 5 categorías y otros experimentos)](Desafio5/desafio_5_cinco_categorias_plus.ipynb)
+**Archivo 1**: [Desafío 5 (modelo original)](Desafio5/Desafio_5_original.ipynb)\
+**Archivo 2**: [Desafío 5 (modelo con 5 categorías)](Desafio5/Desafio_5_cinco_categorias.ipynb)\
+**Archivo 3**: [Desafío 5 (modelo con 5 categorías y otros experimentos)](Desafio5/Desafio_5_cinco_categorias_plus.ipynb)
 
 ---
 
@@ -72,3 +72,4 @@ El último desafío consiste en implementar un modelo de **análisis de sentimie
 
 - Python 3.8+
 - Librerías: `scikit-learn`, `gensim`, `tensorflow`, `torch`, `transformers`, `matplotlib`, `seaborn`, `numpy`, `pandas`
+- Todas las notebooks fueron ejecutadas en el entorno Colab (Google) entre agosto y octubre del año 2024.
