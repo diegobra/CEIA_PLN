@@ -14,7 +14,6 @@ Este repositorio contiene la resolución de diferentes desafíos del curso **Pro
 
 ### Profesor Responsable: Rodrigo Cárdenas
 
-
 ## Tabla de Contenidos
 
 - [Desafío 1: Vectorización de Texto y Clasificación con Naïve Bayes](#desafío-1-vectorización-de-texto-y-clasificación-con-naïve-bayes)
